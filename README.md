@@ -1,4 +1,4 @@
-#BNPTSClust monthly algorithm for python (working version)
+# BNPTSClust monthly algorithm for python (working version)
 
 Python implementation of function that performs the time series clustering algorithm 
 described in Nieto-Barajas and Contreras-Cristan (2014) "A Bayesian Non-Parametric 

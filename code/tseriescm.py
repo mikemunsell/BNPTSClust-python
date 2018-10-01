@@ -16,8 +16,8 @@ from designmatrices import designmatrices
 # Analysis, Vol. 9, No. 1 (2014) pp.147-170". This function is based on 
 # the BNPTSClust package for R, written by David Alejandro Martell Juarez.
 # This is a python implementation of the monthly time series function.
-# Most of the documentation and variable/function names are modeled directly
-# from the BNPTClust package for consistency between languages. 
+# The majority of the code documentation, comments, and variable/function names are 
+# pulled directly from the R BNPTClust package for consistency between languages. 
 #
 # IN:
 #
