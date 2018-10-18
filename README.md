@@ -1,4 +1,4 @@
-# BNPTSClust monthly algorithm for python (working version)
+# BNPTSClust monthly algorithm for python
 
 Python implementation of function that performs the time series clustering algorithm 
 described in Nieto-Barajas and Contreras-Cristan (2014) "A Bayesian Non-Parametric 
@@ -8,8 +8,8 @@ Juarez. This is a python implementation of the monthly time series function only
 granular frequencies (weekly, daily) to come soon.
 
 The majority of the documentation and variable/function names are modeled directly
-from the R BNPTClust package in order to maintain consistency between languages. A Jupyter
-notebook with an example using the monthly stock dataset from the R package is provided.
+from the R BNPTClust package in order to maintain consistency between languages. The results
+folder includes the figures that are produced using a monthly stock dataset (see code/example.py for script to reproduce the figures).
 
 Link to [Nieto-Barajas and Contreras-Cristan (2014)](https://projecteuclid.org/download/pdfview_1/euclid.ba/1393251774). 
 
